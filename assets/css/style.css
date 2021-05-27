@@ -428,3 +428,36 @@ p {
     text-transform: uppercase;
     color: #fff;
 }
+
+/*======================
+    download 
+======================*/
+
+.download {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 100px 0;
+}
+
+.download__ready {
+    font-size: 28px;
+    color: #2d3033;
+    font-weight: 300;
+    padding: 0 0 15px;
+}
+
+.download__text {
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 0 0 40px;
+    color: #2d3033;
+    font-weight: 700;
+}
+
+.btn--red2 {
+    background-color: #e84545;
+    padding: 15px 80px;
+}
