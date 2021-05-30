@@ -1,6 +1,6 @@
 $(function () {
 
-    /* fixed header */
+    /* =_______________fixed header_______________= */
     let header = $("#header");
     let intro = $("#intro");
     let introH = intro.innerHeight();
@@ -23,11 +23,7 @@ $(function () {
         }
     }
 
-    console.log(introH);
-    console.log(scrollPos);
-    /* fixed header */
-
-    /* smooth scroll */
+    /* =_______________smooth scroll_______________= */
     $("[data-scroll]").on("click", function(event) {
         event.preventDefault();
 

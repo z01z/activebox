@@ -548,8 +548,6 @@ p {
 .footer__copyright {
     padding: 25px 0 30px;
     background-color: #313454;
-<<<<<<< HEAD
-=======
 }
 
 .copyright__text {
@@ -779,5 +777,4 @@ p {
     .footer__title {
         padding-bottom: 5px;
     }
->>>>>>> 1057f25... media requests 2 + JS
 }
