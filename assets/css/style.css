@@ -558,6 +558,10 @@ p {
     font-size: 14px;
 }
 
+.p__copyright__text {
+    display: flex;
+}
+
 .copyright__text span {
     color: #fff;
 }
@@ -566,10 +570,6 @@ p {
     color: #e84545;
     font-size: 14px;
     padding: 0 4px;
-}
-
-.p__copyright__text {
-    display: flex;
 }
 
 /*======================
